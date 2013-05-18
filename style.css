@@ -1,0 +1,23 @@
+.gameboard {
+  width: 400px;
+  height: 400px;
+}
+
+.square {
+  width: 20px;
+  height: 20px;
+  float: left;
+  background: #9CBACA;
+}
+
+.body-part {
+  background: #FFDD10;
+}
+
+.apple {
+  background: #776B72;
+}
+
+h3 {
+  color: #776B72;
+}
